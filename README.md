@@ -29,7 +29,9 @@ export default {
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
 
-- https://stackblitz.com/github/karthis668/react-stopwatch
+<a href="[http://stackoverflow.com](https://stackblitz.com/github/karthis668/react-stopwatch)" target="_blank">stackblitz Example</a>
+
 
 - ![testcasesimage](https://github.com/karthis668/react-stopwatch/blob/main/stopwatch2.png)
+- 
 - Model https://github.com/karthis668/react-stopwatch/blob/main/stopwatch1.png
