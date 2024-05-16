@@ -29,4 +29,5 @@ export default {
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
 
-- https://github.com/karthis668/react-stopwatch/blob/main/stopwatch2.png
+- ![testcasesimage](https://github.com/karthis668/react-stopwatch/blob/main/stopwatch2.png)
+- Model https://github.com/karthis668/react-stopwatch/blob/main/stopwatch2.png
